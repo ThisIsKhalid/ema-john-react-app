@@ -1,0 +1,10 @@
+.error-handler {
+    display: flex;
+    justify-content: center;
+}
+.error-handler-content{
+    text-align: center;
+}
+.error-handler-content > h1{
+    color: red;
+}
